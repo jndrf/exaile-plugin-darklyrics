@@ -1,0 +1,1 @@
+# exaile-plugin-darklyrics
